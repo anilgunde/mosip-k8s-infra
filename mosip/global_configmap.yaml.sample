@@ -13,23 +13,23 @@ metadata:
   namespace: default
 data:
   installation-name: sandbox
-  installation-domain: sandbox.xyz.net
+  installation-domain: sandbox.aptiway.com
   mosip-version: develop
-  mosip-api-host: api.sandbox.xyz.net
-  mosip-api-internal-host: api-internal.sandbox.xyz.net
-  mosip-prereg-host: prereg.sandbox.xyz.net
-  mosip-activemq-host: activemq.sandbox.xyz.net
-  mosip-kibana-host: kibana.sandbox.xyz.net
-  mosip-admin-host: admin.sandbox.xyz.net
-  mosip-regclient-host: regclient.sandbox.xyz.net
-  mosip-minio-host: minio.sandbox.xyz.net
-  mosip-kafka-host: kafka.sandbox.xyz.net
-  mosip-iam-external-host: iam.sandbox.xyz.net
-  mosip-postgres-host: postgres.sandbox.xyz.net
-  mosip-pmp-host: pmp.sandbox.xyz.net
-  mosip-onboarder-host: onboarder.sandbox.xyz.net
-  mosip-resident-host: resident.sandbox.xyz.net
-  mosip-compliance-host: compliance.sandbox.xyz.net
-  mosip-idp-host: idp.sandbox.xyz.net
-  mosip-smtp-host: smtp.sandbox.xyz.net
+  mosip-api-host: api.sandbox.aptiway.com
+  mosip-api-internal-host: api-internal.sandbox.aptiway.com
+  mosip-prereg-host: prereg.sandbox.aptiway.com
+  mosip-activemq-host: activemq.sandbox.aptiway.com
+  mosip-kibana-host: kibana.sandbox.aptiway.com
+  mosip-admin-host: admin.sandbox.aptiway.com
+  mosip-regclient-host: regclient.sandbox.aptiway.com
+  mosip-minio-host: minio.sandbox.aptiway.com
+  mosip-kafka-host: kafka.sandbox.aptiway.com
+  mosip-iam-external-host: iam.sandbox.aptiway.com
+  mosip-postgres-host: postgres.sandbox.aptiway.com
+  mosip-pmp-host: pmp.sandbox.aptiway.com
+  mosip-onboarder-host: onboarder.sandbox.aptiway.com
+  mosip-resident-host: resident.sandbox.aptiway.com
+  mosip-compliance-host: compliance.sandbox.aptiway.com
+  mosip-idp-host: idp.sandbox.aptiway.com
+  mosip-smtp-host: smtp.sandbox.aptiway.com
   is_glowroot_env: absent
